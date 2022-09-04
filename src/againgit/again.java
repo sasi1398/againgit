@@ -7,5 +7,7 @@ public class again {
 	private void studentname() {
 		System.out.println("sasi");
 	}
-
+private void studentid() {
+	System.out.println("b branch");
+}
 }
